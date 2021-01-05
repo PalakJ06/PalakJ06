@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**PalakJ06/PalakJ06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is what I am working on  👋
 
 Here are some ideas to get you started:
 
